@@ -68,7 +68,7 @@ public class Calculator {
                     System.out.println("Result: " + res);
                     break;
                 default:
-                    System.out.println("Invalid choice. Please try again.");
+                    System.out.println("Invalid choice.");
             }
         }
 
